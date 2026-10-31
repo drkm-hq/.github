@@ -1,14 +1,8 @@
-<p align="center">
-  <a href="https://drkm.ai"><img src="https://raw.githubusercontent.com/drkm-hq/.github/main/profile/darkmatter-mark.svg" width="64" alt="Darkmatter"></a>
-</p>
+# Darkmatter
 
-<h1 align="center">Darkmatter</h1>
+**Distributed intelligence at the terra-orbital edge.**
 
-<p align="center"><strong>Distributed intelligence at the terra-orbital edge.</strong></p>
-
-<p align="center"><a href="https://drkm.ai">drkm.ai</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/drkm-hq/connectors">Connectors</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huggingface.co/DarkmatterLabs">Hugging Face</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/company/drkm">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/drkmlabs">X</a></p>
-
-<br>
+[drkm.ai](https://drkm.ai) · [Connectors](https://github.com/drkm-hq/connectors) · [Hugging Face](https://huggingface.co/DarkmatterLabs) · [LinkedIn](https://www.linkedin.com/company/drkm) · [X](https://x.com/drkmlabs)
 
 Darkmatter turns the hardware you already have into one private mesh and runs intelligence across it. Install an outpost on a laptop, a rack, a vehicle or a cloud tenancy, invite the next machine with a single-use code, then send work: the mesh partitions it, routes each piece to the compute best suited to it and brings the results back. Workloads run where the data is generated and move as conditions change.
 
@@ -45,4 +39,4 @@ curl -fsSL https://drkm.ai/install | sh
 
 Issues and pull requests are welcome on any public repository here.
 
-<p align="center"><sub>© 2026 Darkmatter Labs, Inc.</sub></p>
+<sub>© 2026 Darkmatter Labs, Inc.</sub>
