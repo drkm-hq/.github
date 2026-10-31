@@ -2,7 +2,8 @@
 
 **Distributed intelligence at the terra-orbital edge.**
 
-[drkm.ai](https://drkm.ai) · [Connectors](https://github.com/drkm-hq/connectors) · [Hugging Face](https://huggingface.co/DarkmatterLabs) · [LinkedIn](https://www.linkedin.com/company/drkm) · [X](https://x.com/drkmlabs)
+<!-- GitHub strips link colors, so these links are small SVG pills in the site's terracotta (profile/badges). -->
+<a href="https://drkm.ai"><img src="https://raw.githubusercontent.com/drkm-hq/.github/main/profile/badges/drkm-ai.svg" height="28" alt="drkm.ai"></a>&nbsp;<a href="https://github.com/drkm-hq/connectors"><img src="https://raw.githubusercontent.com/drkm-hq/.github/main/profile/badges/connectors.svg" height="28" alt="Connectors"></a>&nbsp;<a href="https://huggingface.co/DarkmatterLabs"><img src="https://raw.githubusercontent.com/drkm-hq/.github/main/profile/badges/hugging-face.svg" height="28" alt="Hugging Face"></a>&nbsp;<a href="https://www.linkedin.com/company/drkm"><img src="https://raw.githubusercontent.com/drkm-hq/.github/main/profile/badges/linkedin.svg" height="28" alt="LinkedIn"></a>&nbsp;<a href="https://x.com/drkmlabs"><img src="https://raw.githubusercontent.com/drkm-hq/.github/main/profile/badges/x.svg" height="28" alt="X"></a>
 
 Darkmatter turns the hardware you already have into one private mesh and runs intelligence across it. Install an outpost on a laptop, a rack, a vehicle or a cloud tenancy, invite the next machine with a single-use code, then send work: the mesh partitions it, routes each piece to the compute best suited to it and brings the results back. Workloads run where the data is generated and move as conditions change.
 
@@ -31,6 +32,13 @@ Darkmatter is opening to new teams in waves. Ask for early access at [drkm.ai](h
 ```sh
 curl -fsSL https://drkm.ai/install | sh
 ```
+
+## Contributions
+
+Work we have taken upstream to the projects the mesh runs on.
+
+- **vLLM.** An fp8 e4m3 KV cache for Inkling on SM100 GPUs, halving KV bytes at long context: the [RFC](https://github.com/vllm-project/vllm/issues/54704), the [vLLM pull request](https://github.com/vllm-project/vllm/pull/54705) and the [attention kernel change](https://github.com/vllm-project/tml-fa4/pull/4) it depends on.
+- **verl** and **Inkling on Apple silicon.** Contribution packages for faster training rollouts and for running Inkling on Macs are in final review and will be linked here when they open.
 
 ## Elsewhere
 
