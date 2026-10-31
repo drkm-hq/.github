@@ -6,13 +6,7 @@
 
 <p align="center"><strong>Distributed intelligence at the terra-orbital edge.</strong></p>
 
-<p align="center">
-  <a href="https://drkm.ai">drkm.ai</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/drkm-hq/connectors">Connectors</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://huggingface.co/DarkmatterLabs">Hugging Face</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/drkm">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/drkmlabs">X</a>
-</p>
+<p align="center"><a href="https://drkm.ai">drkm.ai</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/drkm-hq/connectors">Connectors</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huggingface.co/DarkmatterLabs">Hugging Face</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/company/drkm">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/drkmlabs">X</a></p>
 
 <br>
 
