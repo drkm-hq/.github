@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://drkm.ai">drkm.ai</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/drkm-hq/connectors">Connectors</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://huggingface.co/DarkmatterLabs">Hugging Face</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/drkm">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://x.com/drkmlabs">X</a>
 </p>
@@ -43,9 +44,10 @@ Darkmatter is opening to new teams in waves. Request access at [drkm.ai](https:/
 curl -fsSL https://drkm.ai/install | sh
 ```
 
-## On GitHub
+## Elsewhere
 
-- [**connectors**](https://github.com/drkm-hq/connectors): the services, tools and MCP servers an outpost can join, how its agent reaches them, and how to add your own.
+- [**connectors**](https://github.com/drkm-hq/connectors): the services, tools and MCP servers an outpost can join, how its agent reaches them, and how to ask for the ones you need. We review every request and build the ones that fit into a coming release.
+- [**Hugging Face**](https://huggingface.co/DarkmatterLabs): where Darkmatter's models and model cards are published.
 
 Issues and pull requests are welcome on any public repository here.
 
