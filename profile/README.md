@@ -33,7 +33,8 @@ curl -fsSL https://drkm.ai/install | sh
 Work we have taken upstream to the projects the mesh runs on.
 
 - **vLLM.** An fp8 e4m3 KV cache for Inkling on SM100 GPUs, halving KV bytes at long context: the [RFC](https://github.com/vllm-project/vllm/issues/54704), the [vLLM pull request](https://github.com/vllm-project/vllm/pull/54705) and the [attention kernel change](https://github.com/vllm-project/tml-fa4/pull/4) it depends on.
-- **verl** and **Inkling on Apple silicon.** Contribution packages for faster training rollouts and for running Inkling on Macs are in final review and will be linked here when they open.
+- **verl.** Seven proposed pull requests for the reinforcement-learning trainer, with their tests, GPU benchmarks and review record: [verl](https://github.com/drkm-hq/verl). Not yet filed upstream.
+- **Inkling on Apple silicon.** Patches for llama.cpp, mlx-lm and mlx-vlm that run Inkling-Small faster on Macs, with benchmarks and reviews: [inkling](https://github.com/drkm-hq/inkling). Not yet submitted upstream.
 
 ## Elsewhere
 
